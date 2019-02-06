@@ -24,6 +24,7 @@ sh -c "$(wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install
 ## Installing npm
 ```shell
 sudo apt -y install npm
+```
 
 ## Installing pure prompt
 ```shell
